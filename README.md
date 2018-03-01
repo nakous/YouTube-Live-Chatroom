@@ -12,6 +12,7 @@ Allows users to embed a custom chatroom which is populated with the messages fro
 	* Database would store chatroom data so that chats are available forever scrolling through.
 
 2-Wordpress Plugin Management
+
 	1-Wordpress management panel allows users to “create chatroom” which asks for video link.
 	
 	2-Dashboard displays various standard information received back from YouTube API.
